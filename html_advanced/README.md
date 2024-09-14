@@ -1,5 +1,5 @@
 Figma to HTML Project
-https://www.figma.com/design/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?node-id=3558-182&t=mNGVsyu34q9Z2g8M-4
+![alt text](image.png)
 
 This project is focused on implementing a webpage using pure HTML semantic structure based on a designer file provided in Figma. The aim is to translate the Figma design into a clean and structured HTML codebase, without any CSS or styling.
 
