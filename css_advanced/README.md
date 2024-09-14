@@ -1,5 +1,6 @@
-Textile Company Website - CSS Styling
-![alt text](image.png)
+ CSS Styling
+## Design
+<img width="1440" alt="School Page@2x" src="https://user-images.githubusercontent.com/67793634/192224177-3a136d6d-9c94-426a-8bda-370f44123684.png">
 Project Overview
 This project focuses on applying CSS styling to the webpage created in the previous HTML project. The design is guided by a Figma file, where all the visual elements have been specified. My goal is to bring the webpage to life with a beautiful, professional look in line with the design specifications provided.
 
